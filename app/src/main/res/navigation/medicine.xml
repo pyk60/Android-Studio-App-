@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/medicine"
+    app:startDestination="@id/mainActivity">
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.medicineinfoapp.MainActivity"
+        android:label="MainActivity" />
+    <activity
+        android:id="@+id/splashActivity"
+        android:name="com.example.medicineinfoapp.SplashActivity"
+        android:label="SplashActivity" />
+    <activity
+        android:id="@+id/categoryListActivity"
+        android:name="com.example.medicineinfoapp.CategoryListActivity"
+        android:label="CategoryListActivity" />
+    <activity
+        android:id="@+id/medicineListActivity"
+        android:name="com.example.medicineinfoapp.MedicineListActivity"
+        android:label="MedicineListActivity" />
+    <activity
+        android:id="@+id/detailActivity"
+        android:name="com.example.medicineinfoapp.DetailActivity"
+        android:label="DetailActivity" />
+</navigation>

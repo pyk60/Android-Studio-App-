@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619570716894",
+    "project_id": "medicineinfo-app-45bf5",
+    "storage_bucket": "medicineinfo-app-45bf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619570716894:android:d5123393313ed78201e24f",
+        "android_client_info": {
+          "package_name": "com.example.medicineinfoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgQxoGRHWZHguhz8RehzzJcvNpJx7NANw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
